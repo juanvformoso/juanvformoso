@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I'm Juan Formoso! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-juanvformoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanvformoso/)](https://www.linkedin.com/in/juanvformoso/)
+[![Gmail Badge](https://img.shields.io/badge/-trajano.juan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trajano.juan@gmail.com)](mailto:trajano.juan@gmail.com)
+
+- 🔭 I’m currently working on Machine Learning with Python and my full-stack projects with .NET and React.
+- 🌱 I’m currently learning .NET and Machine Learning.
+- 👯 I’m looking to collaborate on web development and data science projects.
 
 <!--
 **juanvformoso/juanvformoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
